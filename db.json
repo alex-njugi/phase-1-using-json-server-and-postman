@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Getting Started with JSON Server",
+      "content": "This is an example article."
+    },
+    {
+      "id": "2",
+      "title": "Understanding REST APIs",
+      "content": "This article explains REST APIs in detail."
+    },
+    {
+      "id": "2fad",
+      "title": "Third Article",
+      "content": "adding third article"
+    }
+  ]
+}
